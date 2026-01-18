@@ -29,11 +29,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddy_falso&show_icons=true&theme=dark)
-
----
-
 ### 📫 Contact
 📸 Instagram: **@eddy_falso**  
 🐙 GitHub: [@eddy_falso](https://github.com/eddy_falso)
